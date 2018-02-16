@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=filePath
+comment1.target=java.lang.String\ FiletoString(java.lang.String)
+comment2.params=fileName\ strContent
+comment2.target=void\ stringtoFile(java.lang.String,\ java.lang.String)
+comment3.params=text\ key
+comment3.target=java.lang.String\ encrypt(java.lang.String,\ java.lang.String)
+comment4.params=text\ key
+comment4.target=java.lang.String\ decrypt(java.lang.String,\ java.lang.String)
+comment5.params=text\ kSize
+comment5.target=void\ cryptanalysis(java.lang.String,\ int)
+comment6.params=sb
+comment6.target=java.lang.String\ toString(java.lang.StringBuilder)
+comment7.params=rawFile
+comment7.target=java.lang.String\ cleanText(java.lang.String)
+numComments=8
